@@ -1,4 +1,3 @@
-
 # <div align="center">오픈소스SW개론</div> 
 ### <div align="right">20194058 임건우 </div>
 
@@ -142,7 +141,7 @@ PID에 해당하는 프로세스를 종료하는 명령어입니다.
 > |**9**|프로세스 PID를 Signal을 사용하여 종료합니다.|
 
 > #### 주요 시그널
-> | 시그널번호 | 시그널 |<div align="center">설명</div> |
+> | 번호 | 시그널 |<div align="center">설명</div> |
 > |:---:|:---:|:---|
 > |**1**|**SIGHUP(HUP)**|종료|
 > |**2**|**SIGINT(INT)**|인터럽트 종료|
